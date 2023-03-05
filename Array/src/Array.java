@@ -1,6 +1,6 @@
 import java.util.Arrays; // ? library support array
 
-public class App {
+public class Array {
 
     public static void main(String[] args) {
         // ! Penulisan Array assignment
